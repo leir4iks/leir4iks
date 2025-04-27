@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Links 🔗
 
 <div align="center">
   <a href="https://discord.gg/WXRzt73Pjz" target="_blank">
@@ -39,7 +39,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leir4iks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leir4iks&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages"/>
 </div>
 
 ---
@@ -52,14 +51,4 @@
 
 ---
 
-## ☕ Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/leir4iks" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
-</div>
-
----
-
-## ❤️ Thanks for visiting my profile — hope you have an amazing day! 🌟
+## ❤️ Thanks for visiting my profile - hope you have an amazing day! 🌟
