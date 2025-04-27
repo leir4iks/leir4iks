@@ -46,7 +46,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/leir4iks/leir4iks/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/leir4iks/leir4iks/blob/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
