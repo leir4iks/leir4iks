@@ -1,13 +1,14 @@
-## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/118904014?s=400&u=1e121429a86b28a8888c2e0d94af2c4df3339a96&v=4" width="200" />
-I'm **leir4iks**, a professional bug creator from Ukraine. I love to administer my server.
+## Hi there! 👋✨ <img align="right" src="https://avatars.githubusercontent.com/u/118904014?s=400&u=1e121429a86b28a8888c2e0d94af2c4df3339a96&v=4" width="200" />
+I'm leir4iks, a professional bug creator 🐛 and server admin from Ukraine 🇺🇦.
+I’m passionate about managing my own projects and building awesome stuff!
 
-Additionally, I have experience with Discord bot development, Php web development, always trying to stay updated with new technologies.
+I also have experience in Discord bot development 🤖 and PHP web development 🌐, always keeping up with the latest technologies 🚀.
 
 ## About Me ✨
 
-I created minecraft servers such as Cookie Vanilla and BeeHive, which were of average popularity.
+I've created Minecraft servers like Cookie Vanilla 🍪 and BeeHive 🐝, which gained moderate popularity.
 
-The Cookie Vanilla is alive, below is the link to the Discord server!
+Cookie Vanilla is still alive and kicking — check out the Discord server below! 🎮👇
 
 
 
@@ -27,4 +28,4 @@ The Cookie Vanilla is alive, below is the link to the Discord server!
 </div>
 
 
-## ❤️ Thank you for visiting my GitHub profile, have a nice day!
+## ❤️ Thanks for visiting my GitHub profile — hope you have an awesome day! 🌟
