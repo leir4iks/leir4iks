@@ -1,8 +1,8 @@
-name: shake
+name: Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -13,19 +13,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
-      - uses: actions/checkout@v4
-      - uses: oven-sh/setup-bun@v1
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: leir4iks
           outputs: |
-            ./dist/github-contribution-grid-snake.svg
-            ./dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push Snake to GitHub
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "snake"
-          add: "dist/*.svg"
+          message: "Snake"
+          add: "output/*.svg"
