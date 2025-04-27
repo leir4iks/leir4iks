@@ -14,8 +14,8 @@
 
 - 🛠️ Server administrator and project creator
 - 🌍 Always learning and exploring new technologies
-- 🍪 Creator of Minecraft servers like **Cookie Vanilla** and **BeeHive**
-- 🎮 **Cookie Vanilla** is still active — join us on Discord!
+- 🎮 Creator of Minecraft servers like **Cookie Vanilla** and **BeeHive**
+- 🍪 **Cookie Vanilla** is still active - join us on Discord!
 
 ---
 
