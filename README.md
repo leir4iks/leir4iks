@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Professional bug creator 🐛 | Server admin 🎮 | Tech enthusiast 🚀
+  Professional bug creator 🐛 | Server admin 🎮
 </p>
 
 ---
