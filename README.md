@@ -4,20 +4,20 @@
   <img src="https://avatars.githubusercontent.com/u/118904014?s=400&u=1e121429a86b28a8888c2e0d94af2c4df3339a96&v=4" width="200" alt="leir4iks avatar" />
 </p>
 
-<p align="center">
+<h3 align="center">
   Open source developer, focusing on minecraft server stuff.
   <br />
   Professional bug creator 🐛
-</p>
+</h3>
 
 ---
 
 <p align="center">
-  🛠️ Creator of minecraft servers <b>Cookie Vanilla</b> &&& <b>BeeHive</b>.
+  🛠️ Creator of minecraft servers <b>Cookie Vanilla</b> & <b>BeeHive</b>.
   <br />
   ☕ I code in <b>Python</b> and <b>Java</b>, have experience in <b>Linux</b>.
   <br />
-  🍪 <b>Cookie Vanilla</b> is still active - join to us on <a href="https://discord.gg/WXRzt73Pjz">Discord</a>!
+  🍪 <b>Cookie Vanilla</b> is still active - join us on <a href="https://discord.gg/WXRzt73Pjz">Discord</a>!
 </p>
 
 ---
